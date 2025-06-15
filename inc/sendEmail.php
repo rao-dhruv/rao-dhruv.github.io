@@ -1,6 +1,6 @@
 ﻿<?php
 
-$siteOwnersEmail = 'rao_dhruv@outlook.com';
+$siteOwnersEmail = 'dhruv.rao1903@gmail.com';
 
 
 if($_POST) {
